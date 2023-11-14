@@ -1,2 +1,2 @@
 # mi-cv
-Mi curriculum vitae 2023
+📄 Mi curriculum vitae 2023
